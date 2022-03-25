@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create-service": ""
+    "create-service": "docker create service ."
   },
   "repository": {
     "type": "git",
