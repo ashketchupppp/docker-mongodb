@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create-service": "docker create service mongodb",
+    "create-service": "docker service create mongodb",
     "build-image": "docker build . -t mongodb"
   },
   "repository": {
