@@ -1,0 +1,19 @@
+{
+  "name": "docker-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-service": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashketchupppp/docker-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashketchupppp/docker-mongodb/issues"
+  },
+  "homepage": "https://github.com/ashketchupppp/docker-mongodb#readme"
+}
